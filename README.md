@@ -1,6 +1,6 @@
 ### Daniel Felipe Forero-Sánchez
-
-#### Physicist (MSc) and Geoscientist 
+#### Cosmology - Astrophysics PhD Student at EPFL
+#### Physicist and Geoscientist 
 - 🔭 I am currently working on 3D Cosmology, specially on the Large Scale Structure of the Universe and I am specially interested in the use of ML/DL in Science.
 - 📫 How to reach me: df.forero10@gmail.com
 
